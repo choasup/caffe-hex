@@ -1,4 +1,8 @@
-# Caffe
+# Caffe - HexGraph
+
+'''
+Jia Deng; Nan Ding; Yangqing Jia; Andrea Frome; Kevin Murphy; Samy Bengio; Yuan Li; Hartmut Neven & Hartwig Adam. Large-Scale Object Classification Using Label Relation Graphs. ECCV 2014.
+'''
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
