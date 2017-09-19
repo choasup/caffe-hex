@@ -1,0 +1,1 @@
+./../../train_cifar10.sh: line 1: ./examples/cifar10/train_quick.sh: No such file or directory
